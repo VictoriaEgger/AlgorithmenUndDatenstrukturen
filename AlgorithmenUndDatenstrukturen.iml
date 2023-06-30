@@ -5,6 +5,11 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/UE1_TodoLinkedList" />
+      <excludeFolder url="file://$MODULE_DIR$/src/UE02_LibraryHash" />
+      <excludeFolder url="file://$MODULE_DIR$/src/UE3_BookStack" />
+      <excludeFolder url="file://$MODULE_DIR$/src/UE4_BookingQueue" />
+      <excludeFolder url="file://$MODULE_DIR$/src/UE04_DictionaryHash" />
+      <excludeFolder url="file://$MODULE_DIR$/src/UE05_LibraryHashWithList" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
